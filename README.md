@@ -81,7 +81,7 @@ We leveraged the **Streamlit** library in python to build an intuitive and user-
 👉 **Checkout our Application live here: [team-ai-avengers-streamlit-app 🚀](https://team-ai-avengers.streamlit.app/)**
 
 ## 📊 Application Screenshots
-![Working Demo](./assets/image1.png)
+![Working Demo](./assets/image2.png)
 
 ## ֎ Langflow Screenshots
 ![Langflow workflow](./assets/lf1.png)
